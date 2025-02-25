@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054.csproj": {}
+    "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054.csproj": {}
   },
   "projects": {
-    "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054.csproj": {
+    "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054.csproj",
+        "projectUniqueName": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054.csproj",
         "projectName": "AssignmentPS42054",
-        "projectPath": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054.csproj",
+        "projectPath": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054.csproj",
         "packagesPath": "C:\\Users\\khoa\\.nuget\\packages\\",
-        "outputPath": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\obj\\",
+        "outputPath": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,7 +43,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
+          "auditMode": "all"
         }
       },
       "frameworks": {
@@ -54,9 +54,25 @@
               "target": "Package",
               "version": "[5.2.2, )"
             },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[8.0.6, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
@@ -74,6 +90,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Net.Sdk.Compilers.Toolset",
+              "version": "[9.0.102, 9.0.102]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -82,7 +104,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,944 +1,1028 @@
 {
   "Files": [
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AssignmentPS42054.bundle.scp.css",
-      "PackagePath": "staticwebassets\\AssignmentPS42054.bundle.scp.css"
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AssignmentPS42054.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AssignmentPS42054.jf0zraw1mj.bundle.scp.css"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\css\\Delete.css",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\css\\Delete.css",
       "PackagePath": "staticwebassets\\css\\Delete.css"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\css\\Login.css",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\css\\Login.css",
       "PackagePath": "staticwebassets\\css\\Login.css"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\css\\Products.css",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\css\\Products.css",
       "PackagePath": "staticwebassets\\css\\Products.css"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\css\\Register.css",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\css\\Register.css",
       "PackagePath": "staticwebassets\\css\\Register.css"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\css\\cart.css",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\css\\cart.css",
       "PackagePath": "staticwebassets\\css\\cart.css"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\css\\site.css",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\css\\styles.css",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\css\\styles.css",
       "PackagePath": "staticwebassets\\css\\styles.css"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\favicon.ico",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\Banner3.png",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\Banner3.png",
       "PackagePath": "staticwebassets\\image\\Banner3.png"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\TEES.png",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\TEES.png",
       "PackagePath": "staticwebassets\\image\\TEES.png"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\banner1.png",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\banner1.png",
       "PackagePath": "staticwebassets\\image\\banner1.png"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\banner2.png",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\banner2.png",
       "PackagePath": "staticwebassets\\image\\banner2.png"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\banner4.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\banner4.jpeg",
       "PackagePath": "staticwebassets\\image\\banner4.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\banner5.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\banner5.jpeg",
       "PackagePath": "staticwebassets\\image\\banner5.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\logo.png",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\logo.png",
       "PackagePath": "staticwebassets\\image\\logo.png"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp1.1.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp1.1.jpeg",
       "PackagePath": "staticwebassets\\image\\pant\\sp1.1.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp1.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp1.jpeg",
       "PackagePath": "staticwebassets\\image\\pant\\sp1.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp10.1.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp10.1.jpeg",
       "PackagePath": "staticwebassets\\image\\pant\\sp10.1.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp10.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp10.jpeg",
       "PackagePath": "staticwebassets\\image\\pant\\sp10.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp11.1.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp11.1.jpeg",
       "PackagePath": "staticwebassets\\image\\pant\\sp11.1.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp11.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp11.jpeg",
       "PackagePath": "staticwebassets\\image\\pant\\sp11.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp12.1.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp12.1.jpeg",
       "PackagePath": "staticwebassets\\image\\pant\\sp12.1.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp12.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp12.jpeg",
       "PackagePath": "staticwebassets\\image\\pant\\sp12.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp2.2.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp2.2.jpeg",
       "PackagePath": "staticwebassets\\image\\pant\\sp2.2.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp2.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp2.jpeg",
       "PackagePath": "staticwebassets\\image\\pant\\sp2.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp3.1.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp3.1.jpeg",
       "PackagePath": "staticwebassets\\image\\pant\\sp3.1.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp3.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp3.jpeg",
       "PackagePath": "staticwebassets\\image\\pant\\sp3.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp4.1.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp4.1.jpeg",
       "PackagePath": "staticwebassets\\image\\pant\\sp4.1.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp4.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp4.jpeg",
       "PackagePath": "staticwebassets\\image\\pant\\sp4.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp5.1.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp5.1.jpeg",
       "PackagePath": "staticwebassets\\image\\pant\\sp5.1.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp5.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp5.jpeg",
       "PackagePath": "staticwebassets\\image\\pant\\sp5.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp6.1.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp6.1.jpeg",
       "PackagePath": "staticwebassets\\image\\pant\\sp6.1.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp6.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp6.jpeg",
       "PackagePath": "staticwebassets\\image\\pant\\sp6.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp7.1.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp7.1.jpeg",
       "PackagePath": "staticwebassets\\image\\pant\\sp7.1.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp7.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp7.jpeg",
       "PackagePath": "staticwebassets\\image\\pant\\sp7.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp8.1.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp8.1.jpeg",
       "PackagePath": "staticwebassets\\image\\pant\\sp8.1.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp8.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp8.jpeg",
       "PackagePath": "staticwebassets\\image\\pant\\sp8.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp9.1.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp9.1.jpeg",
       "PackagePath": "staticwebassets\\image\\pant\\sp9.1.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp9.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\pant\\sp9.jpeg",
       "PackagePath": "staticwebassets\\image\\pant\\sp9.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_163918_categoryAO.webp",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_163918_categoryAO.webp",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_163918_categoryAO.webp"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_164100_categoryQuan.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_164100_categoryQuan.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_164100_categoryQuan.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_164211_categoryHOODIE.webp",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_164211_categoryHOODIE.webp",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_164211_categoryHOODIE.webp"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_164256_categoryGIAY.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_164256_categoryGIAY.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_164256_categoryGIAY.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_164403_categoryBAG.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_164403_categoryBAG.jpeg",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_164403_categoryBAG.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_165224_basic_tshirt_white.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_165224_basic_tshirt_white.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_165224_basic_tshirt_white.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_165224_basic_tshirt_white1.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_165224_basic_tshirt_white1.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_165224_basic_tshirt_white1.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_165224_basic_tshirt_white2.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_165224_basic_tshirt_white2.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_165224_basic_tshirt_white2.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_165224_basic_tshirt_white3.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_165224_basic_tshirt_white3.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_165224_basic_tshirt_white3.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_170028_ao2.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_170028_ao2.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_170028_ao2.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_170028_ao2_1.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_170028_ao2_1.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_170028_ao2_1.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_170028_ao2_2.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_170028_ao2_2.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_170028_ao2_2.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_170028_ao2_3.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_170028_ao2_3.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_170028_ao2_3.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_170143_ao3.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_170143_ao3.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_170143_ao3.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_170143_ao3_1.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_170143_ao3_1.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_170143_ao3_1.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_170143_ao3_2.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_170143_ao3_2.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_170143_ao3_2.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_170143_ao3_3.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_170143_ao3_3.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_170143_ao3_3.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_170318_ao4.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_170318_ao4.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_170318_ao4.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_170318_ao4_1.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_170318_ao4_1.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_170318_ao4_1.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_170318_ao4_2.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_170318_ao4_2.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_170318_ao4_2.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_170318_ao4_3.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_170318_ao4_3.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_170318_ao4_3.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_170416_ao5.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_170416_ao5.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_170416_ao5.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_170416_ao5_1.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_170416_ao5_1.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_170416_ao5_1.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_170416_ao5_2.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_170416_ao5_2.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_170416_ao5_2.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_170416_ao5_3.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_170416_ao5_3.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_170416_ao5_3.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_171308_quan1.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_171308_quan1.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_171308_quan1.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_171308_quan1_1.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_171308_quan1_1.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_171308_quan1_1.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_171308_quan1_2.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_171308_quan1_2.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_171308_quan1_2.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_171308_quan1_3.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_171308_quan1_3.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_171308_quan1_3.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_171454_quan2.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_171454_quan2.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_171454_quan2.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_171454_quan2_1.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_171454_quan2_1.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_171454_quan2_1.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_171454_quan2_2.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_171454_quan2_2.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_171454_quan2_2.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_171454_quan2_3.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_171454_quan2_3.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_171454_quan2_3.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_171654_quan3.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_171654_quan3.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_171654_quan3.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_171654_quan3_1.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_171654_quan3_1.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_171654_quan3_1.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_171654_quan3_2.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_171654_quan3_2.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_171654_quan3_2.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_171654_quan3_3.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_171654_quan3_3.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_171654_quan3_3.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_171814_quan4.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_171814_quan4.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_171814_quan4.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_171814_quan4_1.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_171814_quan4_1.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_171814_quan4_1.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_171814_quan4_2.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_171814_quan4_2.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_171814_quan4_2.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_171814_quan4_3.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_171814_quan4_3.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_171814_quan4_3.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_171907_quan5.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_171907_quan5.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_171907_quan5.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_171907_quan5_1.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_171907_quan5_1.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_171907_quan5_1.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_171907_quan5_2.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_171907_quan5_2.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_171907_quan5_2.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_171907_quan5_3.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_15_171907_quan5_3.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_15_171907_quan5_3.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\ao2.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_16_161014_hod1.jpg",
+      "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_16_161014_hod1.jpg"
+    },
+    {
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_16_161014_hod1_1.jpg",
+      "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_16_161014_hod1_1.jpg"
+    },
+    {
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_16_161014_hod1_2.jpg",
+      "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_16_161014_hod1_2.jpg"
+    },
+    {
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_16_161014_hod1_3.jpg",
+      "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_16_161014_hod1_3.jpg"
+    },
+    {
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_16_161110_hod2.jpg",
+      "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_16_161110_hod2.jpg"
+    },
+    {
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_16_161110_hod2_1.jpg",
+      "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_16_161110_hod2_1.jpg"
+    },
+    {
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_16_161110_hod2_2.jpg",
+      "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_16_161110_hod2_2.jpg"
+    },
+    {
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_16_161110_hod2_3.jpg",
+      "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_16_161110_hod2_3.jpg"
+    },
+    {
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_16_161204_hod3.jpg",
+      "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_16_161204_hod3.jpg"
+    },
+    {
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_16_161204_hod3_1.jpg",
+      "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_16_161204_hod3_1.jpg"
+    },
+    {
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_16_161204_hod3_2.jpg",
+      "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_16_161204_hod3_2.jpg"
+    },
+    {
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_16_161204_hod3_3.jpg",
+      "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_16_161204_hod3_3.jpg"
+    },
+    {
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_16_161316_hod4.jpg",
+      "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_16_161316_hod4.jpg"
+    },
+    {
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_16_161316_hod4_1.jpg",
+      "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_16_161316_hod4_1.jpg"
+    },
+    {
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_16_161316_hod4_2.jpg",
+      "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_16_161316_hod4_2.jpg"
+    },
+    {
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_16_161316_hod4_3.jpg",
+      "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_16_161316_hod4_3.jpg"
+    },
+    {
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_16_161406_hod5.jpg",
+      "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_16_161406_hod5.jpg"
+    },
+    {
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_16_161406_hod5_1.jpg",
+      "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_16_161406_hod5_1.jpg"
+    },
+    {
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_16_161406_hod5_2.jpg",
+      "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_16_161406_hod5_2.jpg"
+    },
+    {
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\2024_10_16_161406_hod5_3.jpg",
+      "PackagePath": "staticwebassets\\image\\sanpham\\2024_10_16_161406_hod5_3.jpg"
+    },
+    {
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\ao2.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\ao2.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\ao2_1.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\ao2_1.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\ao2_1.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\ao2_2.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\ao2_2.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\ao2_2.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\ao2_3.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\ao2_3.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\ao2_3.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\ao3.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\ao3.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\ao3.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\ao3_1.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\ao3_1.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\ao3_1.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\ao3_2.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\ao3_2.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\ao3_2.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\ao3_3.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\ao3_3.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\ao3_3.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\ao4.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\ao4.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\ao4.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\ao4_1.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\ao4_1.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\ao4_1.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\ao4_2.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\ao4_2.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\ao4_2.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\ao4_3.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\ao4_3.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\ao4_3.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\ao5.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\ao5.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\ao5.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\ao5_1.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\ao5_1.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\ao5_1.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\ao5_2.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\ao5_2.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\ao5_2.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\ao5_3.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\ao5_3.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\ao5_3.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\basic_tshirt_white.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\basic_tshirt_white.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\basic_tshirt_white.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\basic_tshirt_white1.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\basic_tshirt_white1.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\basic_tshirt_white1.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\basic_tshirt_white2.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\basic_tshirt_white2.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\basic_tshirt_white2.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\basic_tshirt_white3.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\basic_tshirt_white3.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\basic_tshirt_white3.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\categoryAO.webp",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\categoryAO.webp",
       "PackagePath": "staticwebassets\\image\\sanpham\\categoryAO.webp"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\categoryBAG.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\categoryBAG.jpeg",
       "PackagePath": "staticwebassets\\image\\sanpham\\categoryBAG.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\categoryGIAY.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\categoryGIAY.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\categoryGIAY.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\categoryHOODIE.webp",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\categoryHOODIE.webp",
       "PackagePath": "staticwebassets\\image\\sanpham\\categoryHOODIE.webp"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\categoryQuan.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\categoryQuan.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\categoryQuan.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\hod1.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\hod1.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\hod1.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\hod1_1.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\hod1_1.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\hod1_1.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\hod1_2.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\hod1_2.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\hod1_2.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\hod1_3.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\hod1_3.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\hod1_3.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\hod2.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\hod2.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\hod2.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\hod2_1.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\hod2_1.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\hod2_1.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\hod2_2.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\hod2_2.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\hod2_2.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\hod2_3.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\hod2_3.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\hod2_3.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\hod3.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\hod3.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\hod3.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\hod3_1.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\hod3_1.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\hod3_1.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\hod3_2.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\hod3_2.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\hod3_2.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\hod3_3.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\hod3_3.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\hod3_3.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\hod4.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\hod4.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\hod4.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\hod4_1.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\hod4_1.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\hod4_1.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\hod4_2.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\hod4_2.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\hod4_2.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\hod4_3.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\hod4_3.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\hod4_3.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\hod5.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\hod5.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\hod5.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\hod5_1.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\hod5_1.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\hod5_1.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\hod5_2.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\hod5_2.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\hod5_2.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\hod5_3.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\hod5_3.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\hod5_3.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\quan1.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\quan1.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\quan1.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\quan1_1.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\quan1_1.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\quan1_1.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\quan1_2.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\quan1_2.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\quan1_2.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\quan1_3.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\quan1_3.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\quan1_3.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\quan2.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\quan2.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\quan2.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\quan2_1.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\quan2_1.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\quan2_1.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\quan2_2.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\quan2_2.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\quan2_2.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\quan2_3.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\quan2_3.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\quan2_3.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\quan3.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\quan3.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\quan3.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\quan3_1.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\quan3_1.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\quan3_1.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\quan3_2.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\quan3_2.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\quan3_2.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\quan3_3.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\quan3_3.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\quan3_3.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\quan4.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\quan4.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\quan4.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\quan4_1.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\quan4_1.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\quan4_1.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\quan4_2.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\quan4_2.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\quan4_2.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\quan4_3.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\quan4_3.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\quan4_3.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\quan5.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\quan5.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\quan5.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\quan5_1.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\quan5_1.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\quan5_1.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\quan5_2.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\quan5_2.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\quan5_2.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\quan5_3.jpg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\sanpham\\quan5_3.jpg",
       "PackagePath": "staticwebassets\\image\\sanpham\\quan5_3.jpg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp1.1.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp1.1.jpeg",
       "PackagePath": "staticwebassets\\image\\short\\sp1.1.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp1.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp1.jpeg",
       "PackagePath": "staticwebassets\\image\\short\\sp1.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp10.1.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp10.1.jpeg",
       "PackagePath": "staticwebassets\\image\\short\\sp10.1.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp10.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp10.jpeg",
       "PackagePath": "staticwebassets\\image\\short\\sp10.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp11.1.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp11.1.jpeg",
       "PackagePath": "staticwebassets\\image\\short\\sp11.1.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp11.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp11.jpeg",
       "PackagePath": "staticwebassets\\image\\short\\sp11.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp12.1.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp12.1.jpeg",
       "PackagePath": "staticwebassets\\image\\short\\sp12.1.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp2.1.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp2.1.jpeg",
       "PackagePath": "staticwebassets\\image\\short\\sp2.1.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp2.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp2.jpeg",
       "PackagePath": "staticwebassets\\image\\short\\sp2.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp3.1.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp3.1.jpeg",
       "PackagePath": "staticwebassets\\image\\short\\sp3.1.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp3.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp3.jpeg",
       "PackagePath": "staticwebassets\\image\\short\\sp3.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp4.1.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp4.1.jpeg",
       "PackagePath": "staticwebassets\\image\\short\\sp4.1.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp4.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp4.jpeg",
       "PackagePath": "staticwebassets\\image\\short\\sp4.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp5.1.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp5.1.jpeg",
       "PackagePath": "staticwebassets\\image\\short\\sp5.1.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp5.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp5.jpeg",
       "PackagePath": "staticwebassets\\image\\short\\sp5.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp6.1.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp6.1.jpeg",
       "PackagePath": "staticwebassets\\image\\short\\sp6.1.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp6.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp6.jpeg",
       "PackagePath": "staticwebassets\\image\\short\\sp6.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp7.1.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp7.1.jpeg",
       "PackagePath": "staticwebassets\\image\\short\\sp7.1.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp7.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp7.jpeg",
       "PackagePath": "staticwebassets\\image\\short\\sp7.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp8.1.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp8.1.jpeg",
       "PackagePath": "staticwebassets\\image\\short\\sp8.1.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp8.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp8.jpeg",
       "PackagePath": "staticwebassets\\image\\short\\sp8.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp9.1.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp9.1.jpeg",
       "PackagePath": "staticwebassets\\image\\short\\sp9.1.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp9.jpeg",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\image\\short\\sp9.jpeg",
       "PackagePath": "staticwebassets\\image\\short\\sp9.jpeg"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\js\\site.js",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\hoc\\net103\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AssignmentPS42054.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AssignmentPS42054.Microsoft.AspNetCore.StaticWebAssets.props",

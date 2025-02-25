@@ -1,12 +1,357 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\hoc\\net103\\AssignmentPS42054\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03CC0A3B-E12E-4EA2-AB46-8322FD9F2DF8}|AssignmentPS42054\\AssignmentPS42054.csproj|d:\\hoc\\ktnc\\assignmentps42054\\assignmentps42054\\assignmentps42054\\test\\accounttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CC0A3B-E12E-4EA2-AB46-8322FD9F2DF8}|AssignmentPS42054\\AssignmentPS42054.csproj|solutionrelative:assignmentps42054\\test\\accounttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CC0A3B-E12E-4EA2-AB46-8322FD9F2DF8}|AssignmentPS42054\\AssignmentPS42054.csproj|d:\\hoc\\ktnc\\assignmentps42054\\assignmentps42054\\assignmentps42054\\test\\categorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CC0A3B-E12E-4EA2-AB46-8322FD9F2DF8}|AssignmentPS42054\\AssignmentPS42054.csproj|solutionrelative:assignmentps42054\\test\\categorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CC0A3B-E12E-4EA2-AB46-8322FD9F2DF8}|AssignmentPS42054\\AssignmentPS42054.csproj|d:\\hoc\\ktnc\\assignmentps42054\\assignmentps42054\\assignmentps42054\\test\\producttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CC0A3B-E12E-4EA2-AB46-8322FD9F2DF8}|AssignmentPS42054\\AssignmentPS42054.csproj|solutionrelative:assignmentps42054\\test\\producttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CC0A3B-E12E-4EA2-AB46-8322FD9F2DF8}|AssignmentPS42054\\AssignmentPS42054.csproj|d:\\hoc\\ktnc\\assignmentps42054\\assignmentps42054\\assignmentps42054\\dal\\accountdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CC0A3B-E12E-4EA2-AB46-8322FD9F2DF8}|AssignmentPS42054\\AssignmentPS42054.csproj|solutionrelative:assignmentps42054\\dal\\accountdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CC0A3B-E12E-4EA2-AB46-8322FD9F2DF8}|AssignmentPS42054\\AssignmentPS42054.csproj|d:\\hoc\\ktnc\\assignmentps42054\\assignmentps42054\\assignmentps42054\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CC0A3B-E12E-4EA2-AB46-8322FD9F2DF8}|AssignmentPS42054\\AssignmentPS42054.csproj|solutionrelative:assignmentps42054\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CC0A3B-E12E-4EA2-AB46-8322FD9F2DF8}|AssignmentPS42054\\AssignmentPS42054.csproj|d:\\hoc\\ktnc\\assignmentps42054\\assignmentps42054\\assignmentps42054\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CC0A3B-E12E-4EA2-AB46-8322FD9F2DF8}|AssignmentPS42054\\AssignmentPS42054.csproj|solutionrelative:assignmentps42054\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CC0A3B-E12E-4EA2-AB46-8322FD9F2DF8}|AssignmentPS42054\\AssignmentPS42054.csproj|d:\\hoc\\ktnc\\assignmentps42054\\assignmentps42054\\assignmentps42054\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{03CC0A3B-E12E-4EA2-AB46-8322FD9F2DF8}|AssignmentPS42054\\AssignmentPS42054.csproj|solutionrelative:assignmentps42054\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CC0A3B-E12E-4EA2-AB46-8322FD9F2DF8}|AssignmentPS42054\\AssignmentPS42054.csproj|d:\\hoc\\ktnc\\assignmentps42054\\assignmentps42054\\assignmentps42054\\dal\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CC0A3B-E12E-4EA2-AB46-8322FD9F2DF8}|AssignmentPS42054\\AssignmentPS42054.csproj|solutionrelative:assignmentps42054\\dal\\productdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CC0A3B-E12E-4EA2-AB46-8322FD9F2DF8}|AssignmentPS42054\\AssignmentPS42054.csproj|d:\\hoc\\ktnc\\assignmentps42054\\assignmentps42054\\assignmentps42054\\dal\\categorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CC0A3B-E12E-4EA2-AB46-8322FD9F2DF8}|AssignmentPS42054\\AssignmentPS42054.csproj|solutionrelative:assignmentps42054\\dal\\categorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CC0A3B-E12E-4EA2-AB46-8322FD9F2DF8}|AssignmentPS42054\\AssignmentPS42054.csproj|d:\\hoc\\ktnc\\assignmentps42054\\assignmentps42054\\assignmentps42054\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CC0A3B-E12E-4EA2-AB46-8322FD9F2DF8}|AssignmentPS42054\\AssignmentPS42054.csproj|solutionrelative:assignmentps42054\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CC0A3B-E12E-4EA2-AB46-8322FD9F2DF8}|AssignmentPS42054\\AssignmentPS42054.csproj|d:\\hoc\\ktnc\\assignmentps42054\\assignmentps42054\\assignmentps42054\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{03CC0A3B-E12E-4EA2-AB46-8322FD9F2DF8}|AssignmentPS42054\\AssignmentPS42054.csproj|solutionrelative:assignmentps42054\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CC0A3B-E12E-4EA2-AB46-8322FD9F2DF8}|AssignmentPS42054\\AssignmentPS42054.csproj|d:\\hoc\\ktnc\\assignmentps42054\\assignmentps42054\\assignmentps42054\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CC0A3B-E12E-4EA2-AB46-8322FD9F2DF8}|AssignmentPS42054\\AssignmentPS42054.csproj|solutionrelative:assignmentps42054\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CC0A3B-E12E-4EA2-AB46-8322FD9F2DF8}|AssignmentPS42054\\AssignmentPS42054.csproj|d:\\hoc\\ktnc\\assignmentps42054\\assignmentps42054\\assignmentps42054\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CC0A3B-E12E-4EA2-AB46-8322FD9F2DF8}|AssignmentPS42054\\AssignmentPS42054.csproj|solutionrelative:assignmentps42054\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CC0A3B-E12E-4EA2-AB46-8322FD9F2DF8}|AssignmentPS42054\\AssignmentPS42054.csproj|d:\\hoc\\ktnc\\assignmentps42054\\assignmentps42054\\assignmentps42054\\models\\procatview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CC0A3B-E12E-4EA2-AB46-8322FD9F2DF8}|AssignmentPS42054\\AssignmentPS42054.csproj|solutionrelative:assignmentps42054\\models\\procatview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CC0A3B-E12E-4EA2-AB46-8322FD9F2DF8}|AssignmentPS42054\\AssignmentPS42054.csproj|d:\\hoc\\ktnc\\assignmentps42054\\assignmentps42054\\assignmentps42054\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CC0A3B-E12E-4EA2-AB46-8322FD9F2DF8}|AssignmentPS42054\\AssignmentPS42054.csproj|solutionrelative:assignmentps42054\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CC0A3B-E12E-4EA2-AB46-8322FD9F2DF8}|AssignmentPS42054\\AssignmentPS42054.csproj|d:\\hoc\\ktnc\\assignmentps42054\\assignmentps42054\\assignmentps42054\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CC0A3B-E12E-4EA2-AB46-8322FD9F2DF8}|AssignmentPS42054\\AssignmentPS42054.csproj|solutionrelative:assignmentps42054\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CC0A3B-E12E-4EA2-AB46-8322FD9F2DF8}|AssignmentPS42054\\AssignmentPS42054.csproj|d:\\hoc\\ktnc\\assignmentps42054\\assignmentps42054\\assignmentps42054\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CC0A3B-E12E-4EA2-AB46-8322FD9F2DF8}|AssignmentPS42054\\AssignmentPS42054.csproj|solutionrelative:assignmentps42054\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CC0A3B-E12E-4EA2-AB46-8322FD9F2DF8}|AssignmentPS42054\\AssignmentPS42054.csproj|d:\\hoc\\ktnc\\assignmentps42054\\assignmentps42054\\assignmentps42054\\models\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CC0A3B-E12E-4EA2-AB46-8322FD9F2DF8}|AssignmentPS42054\\AssignmentPS42054.csproj|solutionrelative:assignmentps42054\\models\\checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CC0A3B-E12E-4EA2-AB46-8322FD9F2DF8}|AssignmentPS42054\\AssignmentPS42054.csproj|d:\\hoc\\ktnc\\assignmentps42054\\assignmentps42054\\assignmentps42054\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CC0A3B-E12E-4EA2-AB46-8322FD9F2DF8}|AssignmentPS42054\\AssignmentPS42054.csproj|solutionrelative:assignmentps42054\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CC0A3B-E12E-4EA2-AB46-8322FD9F2DF8}|AssignmentPS42054\\AssignmentPS42054.csproj|d:\\hoc\\ktnc\\assignmentps42054\\assignmentps42054\\assignmentps42054\\bundleconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{03CC0A3B-E12E-4EA2-AB46-8322FD9F2DF8}|AssignmentPS42054\\AssignmentPS42054.csproj|solutionrelative:assignmentps42054\\bundleconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountTests.cs",
+              "DocumentMoniker": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\Test\\AccountTests.cs",
+              "RelativeDocumentMoniker": "AssignmentPS42054\\Test\\AccountTests.cs",
+              "ToolTip": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\Test\\AccountTests.cs",
+              "RelativeToolTip": "AssignmentPS42054\\Test\\AccountTests.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T10:42:15.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountDAL.cs",
+              "DocumentMoniker": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\DAL\\AccountDAL.cs",
+              "RelativeDocumentMoniker": "AssignmentPS42054\\DAL\\AccountDAL.cs",
+              "ToolTip": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\DAL\\AccountDAL.cs",
+              "RelativeToolTip": "AssignmentPS42054\\DAL\\AccountDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAL8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:14:32.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductTests.cs",
+              "DocumentMoniker": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\Test\\ProductTests.cs",
+              "RelativeDocumentMoniker": "AssignmentPS42054\\Test\\ProductTests.cs",
+              "ToolTip": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\Test\\ProductTests.cs",
+              "RelativeToolTip": "AssignmentPS42054\\Test\\ProductTests.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAIwKgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T10:57:27.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "AssignmentPS42054\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "AssignmentPS42054\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwC0AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T10:52:34.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryDAL.cs",
+              "DocumentMoniker": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\DAL\\CategoryDAL.cs",
+              "RelativeDocumentMoniker": "AssignmentPS42054\\DAL\\CategoryDAL.cs",
+              "ToolTip": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\DAL\\CategoryDAL.cs",
+              "RelativeToolTip": "AssignmentPS42054\\DAL\\CategoryDAL.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T11:03:36.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryTests.cs",
+              "DocumentMoniker": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\Test\\CategoryTests.cs",
+              "RelativeDocumentMoniker": "AssignmentPS42054\\Test\\CategoryTests.cs",
+              "ToolTip": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\Test\\CategoryTests.cs",
+              "RelativeToolTip": "AssignmentPS42054\\Test\\CategoryTests.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAywGgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T11:04:28.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "AssignmentPS42054\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "AssignmentPS42054\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAmwDoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T10:48:47.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "AssignmentPS42054\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "AssignmentPS42054\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T10:43:10.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\appsettings.json",
+              "RelativeDocumentMoniker": "AssignmentPS42054\\appsettings.json",
+              "ToolTip": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\appsettings.json",
+              "RelativeToolTip": "AssignmentPS42054\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T10:42:25.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Checkout.cs",
+              "DocumentMoniker": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\Models\\Checkout.cs",
+              "RelativeDocumentMoniker": "AssignmentPS42054\\Models\\Checkout.cs",
+              "ToolTip": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\Models\\Checkout.cs",
+              "RelativeToolTip": "AssignmentPS42054\\Models\\Checkout.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T10:43:12.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "AssignmentPS42054\\Models\\Category.cs",
+              "ToolTip": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\Models\\Category.cs",
+              "RelativeToolTip": "AssignmentPS42054\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T10:43:15.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductDAL.cs",
+              "DocumentMoniker": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\DAL\\ProductDAL.cs",
+              "RelativeDocumentMoniker": "AssignmentPS42054\\DAL\\ProductDAL.cs",
+              "ToolTip": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\DAL\\ProductDAL.cs",
+              "RelativeToolTip": "AssignmentPS42054\\DAL\\ProductDAL.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAA/wEIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T10:51:31.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "AssignmentPS42054\\Models\\CartItem.cs",
+              "ToolTip": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\Models\\CartItem.cs",
+              "RelativeToolTip": "AssignmentPS42054\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T10:43:16.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "AssignmentPS42054\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "AssignmentPS42054\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T10:48:43.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AssignmentPS42054\\appsettings.Development.json",
+              "ToolTip": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\appsettings.Development.json",
+              "RelativeToolTip": "AssignmentPS42054\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T10:42:39.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProCatView.cs",
+              "DocumentMoniker": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\Models\\ProCatView.cs",
+              "RelativeDocumentMoniker": "AssignmentPS42054\\Models\\ProCatView.cs",
+              "ToolTip": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\Models\\ProCatView.cs",
+              "RelativeToolTip": "AssignmentPS42054\\Models\\ProCatView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T10:43:09.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "AssignmentPS42054\\Models\\Product.cs",
+              "ToolTip": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\Models\\Product.cs",
+              "RelativeToolTip": "AssignmentPS42054\\Models\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T10:43:06.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "AssignmentPS42054\\Models\\Users.cs",
+              "ToolTip": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\Models\\Users.cs",
+              "RelativeToolTip": "AssignmentPS42054\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T10:42:56.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\Program.cs",
+              "RelativeDocumentMoniker": "AssignmentPS42054\\Program.cs",
+              "ToolTip": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\Program.cs",
+              "RelativeToolTip": "AssignmentPS42054\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T10:42:46.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "bundleconfig.json",
+              "DocumentMoniker": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\bundleconfig.json",
+              "RelativeDocumentMoniker": "AssignmentPS42054\\bundleconfig.json",
+              "ToolTip": "D:\\hoc\\KTNC\\AssignmentPS42054\\AssignmentPS42054\\AssignmentPS42054\\bundleconfig.json",
+              "RelativeToolTip": "AssignmentPS42054\\bundleconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T10:42:42.235Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
