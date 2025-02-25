@@ -1,0 +1,56 @@
+﻿@model List<CartItem>
+
+<h2>Giỏ hàng</h2>
+
+@if (Model.Any())
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Hình ảnh</th>
+                <th>Sản phẩm</th>
+                <th>Giá</th>
+                <th>Số lượng</th>
+                <th>Tổng</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td><img src="/image/sanpham/@item.DetailImage" width="150" height="100" /></td>
+                    <td>@item.ProductName</td>
+                    <td>@item.Price.ToString("C")</td>
+                    <td>
+                        <form asp-action="UpdateToCart" method="post">
+                            <input type="hidden" name="productId" value="@item.ProductId" />
+                            <input type="number" name="quantity" value="@item.Quantity" min="1" />
+                            <button type="submit" class="btn btn-primary btn-sm">Cập nhật</button>
+                        </form>
+                    </td>
+                    <td>@((item.Price * item.Quantity).ToString("C"))</td>
+                    <td>
+                        <form asp-action="RemoveFromCart" method="post">
+                            <input type="hidden" name="productId" value="@item.ProductId" />
+                            <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                        </form>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <div class="cart-summary">
+        <p>Tổng cộng:</p>
+        <span class="total">@Model.Sum(i => i.Price * i.Quantity).ToString("C")</span>
+        <form asp-action="Checkout" method="post">
+            <button type="submit" class="btn btn-primary btn-lg">Thanh Toán</button>
+        </form>
+    </div>
+
+}
+else
+{
+    <p>Giỏ hàng trống</p>
+}

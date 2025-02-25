@@ -1,0 +1,87 @@
+﻿@model AssignmentPS42054.Models.Category
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create New Category</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 20px;
+        }
+
+        .form-group {
+            margin-bottom: 15px;
+        }
+
+            .form-group label {
+                font-weight: bold;
+            }
+
+            .form-group input[type="text"],
+            .form-group input[type="file"] {
+                width: 100%;
+                padding: 10px;
+                margin-top: 5px;
+                border: 1px solid #ddd;
+                border-radius: 4px;
+            }
+
+            .form-group .text-danger {
+                color: red;
+                margin-top: 5px;
+                display: block;
+            }
+
+        .form-actions {
+            text-align: center;
+        }
+
+            .form-actions button {
+                padding: 10px 20px;
+                background-color: #007bff;
+                color: white;
+                border: none;
+                border-radius: 4px;
+                cursor: pointer;
+            }
+
+                .form-actions button:hover {
+                    background-color: #0056b3;
+                }
+    </style>
+</head>
+<body>
+    <div class="container mt-4">
+        <h1 class="mb-4">Create New Category</h1>
+        <form asp-action="Create" method="post" enctype="multipart/form-data">
+            <div class="form-group">
+                <label for="Name">Category Name</label>
+                <input type="text" id="Name" name="Name" value="@Model.Name" required />
+                @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="form-group">
+                <label for="FileImage">Category Image</label>
+                <input type="file" id="FileImage" name="FileImage" accept="image/*" />
+                @Html.ValidationMessageFor(model => model.Cat_Img, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="form-actions">
+                <button type="submit">Create</button>
+            </div>
+        </form>
+
+        <div>
+            <a asp-action="Index">Back to List</a>
+        </div>
+    </div>
+</body>
+</html>

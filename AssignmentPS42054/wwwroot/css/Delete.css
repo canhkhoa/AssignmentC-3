@@ -1,0 +1,93 @@
+﻿/* Tiêu đề chính */
+h1 {
+    font-size: 2.5rem;
+    color: #dc3545; /* Màu đỏ Bootstrap */
+    text-align: center;
+    margin: 20px 0;
+    font-weight: bold;
+}
+
+/* Khung cảnh báo */
+.alert-warning {
+    background-color: #fff3cd;
+    color: #856404;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 30px;
+    font-size: 1.2rem;
+}
+
+/* Thẻ h3 cảnh báo */
+h3 {
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+/* Card bao quanh nội dung */
+.card {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Nội dung của thẻ card */
+.card-title {
+    font-size: 1.8rem;
+    color: #007bff; /* Màu xanh của Bootstrap */
+    margin-bottom: 20px;
+    font-weight: 500;
+}
+
+/* Bố cục của các dòng chi tiết */
+.dl {
+    margin: 0;
+}
+
+/* Các tiêu đề của phần chi tiết */
+dt {
+    font-weight: bold;
+    font-size: 1.1rem;
+    margin-bottom: 10px;
+}
+
+/* Phần nội dung của các chi tiết */
+dd {
+    margin-bottom: 10px;
+    font-size: 1.1rem;
+}
+
+/* Form các nút bấm */
+form {
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Nút Xóa */
+.btn-danger {
+    background-color: #dc3545;
+    border: none;
+    padding: 10px 30px;
+    font-size: 1.1rem;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+    .btn-danger:hover {
+        background-color: #c82333;
+    }
+
+/* Nút Back */
+.btn-secondary {
+    background-color: #6c757d;
+    border: none;
+    padding: 10px 30px;
+    font-size: 1.1rem;
+    border-radius: 5px;
+    margin-left: 15px;
+    transition: background-color 0.3s ease;
+}
+
+    .btn-secondary:hover {
+        background-color: #5a6268;
+    }

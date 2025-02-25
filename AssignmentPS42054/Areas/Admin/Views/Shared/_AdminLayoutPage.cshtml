@@ -1,0 +1,93 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coolmate</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <link rel="stylesheet" href="~/css/styles.css">
+    <link rel="stylesheet" href="~/css/Login.css" />
+    <link rel="stylesheet" href="~/css/Register.css" />
+    <link rel="stylesheet" href="~/css/Delete.css" />
+</head>
+<body>
+    <div id="custom-alert" class="custom-alert">
+        <p id="alert-message"></p>
+    </div>
+    <div class="container">
+        <nav class="main-nav">
+            <ul>
+                <li><a href="/admin/adminhome" class="nav-link" data-target="home">TRANG CHỦ</a></li>
+                <li><a href="/admin/product" class="nav-link" data-target="home">SẢN PHẨM</a></li>
+                <li><a href="/admin/category/index" class="nav-link" data-target="home">LOẠI SẢN PHẨM</a></li>
+                <li><a href="/admin/user/index" class="nav-link" data-target="home">NGƯỜI DÙNG</a></li>
+            </ul>
+            <div class="search-cart">
+                <div class="search-cart">
+                    @if (Context.Request.Cookies["UserName"] != null)
+                    {
+                        <p>Xin chào, @Context.Request.Cookies["UserName"]!  </p>
+                        <a href="@Url.Action("Logout", "Account", new { area = "" })">Đăng xuất</a>
+                    }
+                    else if (Context.Session.GetString("UserName") != null)
+                    {
+                        <p>Xin chào bạn!    </p>
+                        <a href="@Url.Action("Logout", "Account", new { area = "" })">Đăng xuất</a>
+                    }
+                    else
+                    {
+                        <a href="@Url.Action("Login", "Account", new { area = "" })">Đăng nhập</a>
+                        <a href="@Url.Action("Register", "Account", new { area = "" })">Đăng ký</a>
+                    }
+                </div>
+
+            </div>
+        </nav>
+        <main>
+            @* <section class="banner">
+                <div class="banner-content">
+                    <img src="~/image/logo.png" alt="Banner Logo" class="banner-logo">
+                </div>
+                <div class="banner-images">
+                    <img src="~/image/Banner1.png" alt="Model 1" class="active">
+                </div>
+            </section>
+            <section id="products-section" class="hidden">
+            </section> *@
+        </main>
+        @* <div class="flash-sale">
+            <h2>Flash Sale </h2>
+        </div> *@
+        <div class="Center_Body">
+            @RenderBody()
+        </div>
+        <footer>
+            <div class="footer-section">
+                <p>ABOUT US</p>
+                <p>ABOUT US</p>
+            </div>
+            <div class="footer-section">
+                <p>INFORMATION</p>
+                <p>CLIENT SERVICE</p>
+            </div>
+            <div class="footer-section">
+                <ul>
+                    <p>CONNECT</p>
+
+                    <p>INSTAGRAM: <a href="">https://www.instagram.com/stress.mama/</a></p>
+                    <p>FACEBOOK: <a href="">https://www.facebook.com/stressmamaworldwide</a></p>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <ul>
+                    <p>CONTACT US</p>
+                    <p>+84 977 699 624 </p>
+                    <p>MON-SUN 8:30AM - 9:30PM</p>
+                    <p>EMAIL US: <a href="">stressmamastreetwear@gmail.com</a></p>
+                </ul>
+            </div>
+        </footer>
+    </div>
+
+</body>
+</html>

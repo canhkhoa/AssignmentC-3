@@ -1,0 +1,49 @@
+﻿@model AssignmentPS42054.Models.ProCatView
+
+
+
+<div class="flash-sale">
+    <h2>Flash Sale </h2>
+</div>
+
+<div class="shop-for">
+    <div class="shop-for-header">
+        <h2>Loại sản phẩm</h2>
+    </div>
+    <div class="categories">
+        @foreach (var category in Model.Categories)
+        {
+            <a asp-controller="Products" asp-action="Category" asp-route-id="@category.Id" class="category-link">
+                <div class="category-item">
+                    <img src="/image/sanpham/@category.Cat_Img" alt="@category.Name" />
+                    <p>@category.Name</p>
+                </div>
+            </a>
+        }
+    </div>
+</div>
+
+<br />
+<br />
+<hr />
+
+<div class="shop-for">
+    <div class="shop-for-header">
+        <h2>Sản phẩm</h2>
+    </div>
+    <div class="products">
+
+        @foreach (var product in Model.Products)
+        {
+            <a asp-controller="Products" asp-action="Detail" asp-route-id="@product.Id" class="product-link">
+                <div class="product-item">
+                    <img src="/image/sanpham/@product.ProductImage" alt="@product.Name" />
+                    <p>@product.Name</p>
+                    <p class="price">
+                        @product.Price.ToString("C").Split('.')[0]<sup>@product.Price.ToString("C").Split('.')[1]</sup>
+                    </p>
+                </div>
+            </a>
+        }
+    </div>
+</div>

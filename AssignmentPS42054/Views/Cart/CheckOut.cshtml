@@ -1,0 +1,66 @@
+﻿@model AssignmentPS42054.Models.Checkout
+
+<h2>Thông tin thanh toán</h2>
+
+<form asp-action="SubmitCheckout" method="post">
+    <div class="form-group">
+        <label for="CustomerName">Tên khách hàng</label>
+        <input type="text" id="CustomerName" name="CustomerName" class="form-control" required />
+    </div>
+
+    <div class="form-group">
+        <label for="Address">Địa chỉ</label>
+        <input type="text" id="Address" name="Address" class="form-control" required />
+    </div>
+
+    <div class="form-group">
+        <label for="PhoneNumber">Số điện thoại</label>
+        <input type="text" id="PhoneNumber" name="PhoneNumber" class="form-control" required />
+    </div>
+
+    <div class="form-group">
+        <label for="PaymentMethod">Phương thức thanh toán</label>
+        <select id="PaymentMethod" name="PaymentMethod" class="form-control">
+            <option value="COD">Thanh toán khi nhận hàng (COD)</option>
+            <option value="Online">Thanh toán online</option>
+        </select>
+    </div>
+
+    <h3>Sản phẩm trong giỏ hàng</h3>
+
+    @if (Model.CartItems != null && Model.CartItems.Any())
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Sản phẩm</th>
+                    <th>Giá</th>
+                    <th>Số lượng</th>
+                    <th>Tổng</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model.CartItems)
+                {
+                    <tr>
+                        <td>@item.ProductName</td>
+                        <td>@item.Price.ToString("C")</td>
+                        <td>@item.Quantity</td>
+                        <td>@(item.Price * item.Quantity).ToString("C")</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <div class="cart-summary">
+            <p>Tổng cộng: <strong>@Model.CartItems.Sum(i => i.Price * i.Quantity).ToString("C")</strong></p>
+        </div>
+    }
+    else
+    {
+        <p>Giỏ hàng trống.</p>
+    }
+
+
+    <button type="submit" class="btn btn-success">Xác nhận đơn hàng</button>
+</form>

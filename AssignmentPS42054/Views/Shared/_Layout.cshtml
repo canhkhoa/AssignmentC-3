@@ -1,0 +1,77 @@
+﻿<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coolmate</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <link rel="stylesheet" href="~/css/styles.css">
+    <link rel="stylesheet" href="~/css/Login.css" />
+    <link rel="stylesheet" href="~/css/Register.css" />
+    <link rel="stylesheet" href="~/css/Products.css" />
+    <link href="~/css/cart.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="custom-alert" class="custom-alert">
+        <p id="alert-message"></p>
+    </div>
+    <div class="container">
+        <nav class="main-nav">
+            <ul>
+                <li><a href="@Url.Action("Index", "Home")">Trang chủ</a></li>
+                <li><a href="@Url.Action("Index", "Products")">Sản phẩm</a></li>
+                <li><a href="@Url.Action("Index", "Cart")">Giỏ hàng</a></li>
+            </ul>
+            <div class="search-cart">
+                @if (Context.Request.Cookies["UserName"] != null)
+                {
+
+                    <a href="@Url.Action("Edit", "Account")"><p>Xin chào, @Context.Request.Cookies["UserName"]!  </p></a>
+                    <a href="@Url.Action("Logout", "Account")">Đăng xuất</a>
+                }
+                else if (Context.Session.GetString("UserName") != null)
+                {
+                    <a href="@Url.Action("Edit", "Account")"><p>Xin chào bạn </p></a>
+                <a href="@Url.Action("Logout", "Account")">Đăng xuất</a>
+                }
+                else
+                {
+                <a href="@Url.Action("Login", "Account")">Đăng nhập</a>
+                <a href="@Url.Action("Register", "Account")">Đăng ký</a>
+                }
+            </div>
+        </nav>
+       
+            @RenderBody()
+
+        <footer>
+            <div class="footer-section">
+                <p>ABOUT US</p>
+                <p>ABOUT US</p>
+            </div>
+            <div class="footer-section">
+                <p>INFORMATION</p>
+                <p>CLIENT SERVICE</p>
+            </div>
+            <div class="footer-section">
+                <ul>
+                    <p>CONNECT</p>
+
+                    <p>INSTAGRAM: <a href="">https://www.instagram.com/stress.mama/</a></p>
+                    <p>FACEBOOK: <a href="">https://www.facebook.com/stressmamaworldwide</a></p>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <ul>
+                    <p>CONTACT US</p>
+                    <p>+84 977 699 624 </p>
+                    <p>MON-SUN 8:30AM - 9:30PM</p>
+                    <p>EMAIL US: <a href="">stressmamastreetwear@gmail.com</a></p>
+                </ul>
+            </div>
+        </footer>
+    </div>
+    @RenderSection("Scripts", required: false)
+
+</body>
+</html>

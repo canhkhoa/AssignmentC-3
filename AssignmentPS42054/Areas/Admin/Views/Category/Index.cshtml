@@ -1,0 +1,105 @@
+﻿@model IEnumerable<AssignmentPS42054.Models.Category>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Category List</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 20px;
+        }
+
+        .table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+            .table th, .table td {
+                padding: 10px;
+                text-align: left;
+                border: 1px solid #ddd;
+            }
+
+            .table th {
+                background-color: #f2f2f2;
+            }
+
+            .table td img {
+                display: block;
+                max-width: 100px;
+                height: auto;
+            }
+
+            .table tr:hover {
+                background-color: #f9f9f9;
+            }
+
+        a {
+            display: inline-block;
+            margin-bottom: 10px;
+            color: #007bff;
+            text-decoration: none;
+        }
+
+            a:hover {
+                text-decoration: underline;
+            }
+
+        .no-image {
+            color: #888;
+        }
+    </style>
+</head>
+<body>
+    <div class="container mt-4">
+        <h1 class="mb-4">Categories</h1>
+        <p>
+            @Html.ActionLink("Create", "Create", new { area = "Admin"})
+        </p>
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Image</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var cat in Model)
+                {
+                    <tr>
+                        <td>@cat.Id</td>
+                        <td>@cat.Name</td>
+                        <td>
+                            @if (!string.IsNullOrEmpty(cat.Cat_Img))
+                            {
+                                <img src="/image/sanpham/@cat.Cat_Img" alt="@cat.Name">
+                            }
+                            else
+                            {
+                                <span class="no-image">No image available</span>
+                            }
+                        </td>
+                        <td>
+                            <!-- Đường dẫn phải bao gồm thông tin area -->
+                            @Html.ActionLink("Edit", "Edit", new { area = "Admin", id = cat.Id }) |
+                            @Html.ActionLink("Delete", "Delete", new { area = "Admin", id = cat.Id })
+
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

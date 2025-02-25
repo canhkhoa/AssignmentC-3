@@ -1,0 +1,107 @@
+﻿
+.shop-for {
+    margin-bottom: 20px;
+}
+
+.shop-for-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.shop-for h2 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.shop-for a.more-categories {
+    font-size: 14px;
+    color: #007bff;
+    text-decoration: none;
+    margin-right: 300px;
+}
+
+    .shop-for a.more-categories:hover {
+        text-decoration: underline;
+    }
+
+.categories {
+    display: flex;
+    justify-content: left;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.category-item {
+    text-align: center;
+    width: 150px;
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+    .category-item img {
+        width: 100px;
+        height: 100px;
+        object-fit: cover;
+        margin-bottom: 20px;
+    }
+
+    .category-item p {
+        font-size: 16px;
+        font-weight: bold;
+        color: #333;
+    }
+
+.products {
+    display: flex;
+    justify-content: left;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.product-item {
+    width: 180px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+    .product-item img {
+        width: 150px;
+        height: 120px;
+        object-fit: cover;
+        margin-bottom: 10px;
+    }
+
+    .product-item p {
+        font-size: 14px;
+        color: #333;
+        margin: 5px 0;
+    }
+
+    .product-item .price {
+        font-size: 18px;
+        color: #333;
+        font-weight: bold;
+    }
+
+        .product-item .price sup {
+            font-size: 12px;
+            font-weight: bold;
+            position: relative;
+            top: -0.3em; /* Điều chỉnh giá trị này để kiểm soát độ cao của số thập phân */
+        }
+
+.product-link {
+    text-decoration: none;
+    color: inherit;
+}
+
+

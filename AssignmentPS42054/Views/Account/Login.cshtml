@@ -1,0 +1,23 @@
+﻿@model AssignmentPS42054.Models.Users 
+
+<div class="dangky-container">
+    <form asp-action="Login" id="dangky-form" method="post">
+        <h2>ĐĂNG NHẬP</h2>
+        <p>
+            <label for="userName">Tên đăng nhập</label><br>
+            <input name="userName" id="userName" type="text" class="txt" placeholder="Nhập tên đăng nhập" required>
+        </p>
+        <p>
+            <label for="password">Mật khẩu</label><br>
+            <input name="password" id="password" type="password" class="txt" placeholder="Nhập mật khẩu" required>
+        </p>
+        <p>
+            <input type="checkbox" name="Remember" id="rememberMe" value="1">
+            <label for="rememberMe">Ghi nhớ đăng nhập</label>
+        </p>
+        <input type="submit" value="Đăng nhập" class="btn btn-primary">
+        <div class="text-danger">
+            <span style="color: red; text-align: center">@ViewBag.Info</span>
+        </div>
+    </form>
+</div>
